@@ -130,7 +130,7 @@ nav {
     }
 }
 
-.abhideva::after {
+.a::after {
     content: "";
     position: absolute;
     width: 0%;
@@ -142,7 +142,7 @@ nav {
     border-radius: 5rem;
 }
 
-.abhideva:hover::after {
+.a:hover::after {
     width: 76%;
 }
 
