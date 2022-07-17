@@ -104,7 +104,7 @@ nav button {
   display: none;
 }
 
-.abhideva::after {
+.red::after {
   content: "";
   position: absolute;
   width: 0%;
@@ -117,7 +117,7 @@ nav button {
   border-radius: 5rem;
 }
 
-.abhideva:hover::after {
+.red:hover::after {
   width: 76%;
 }
 
